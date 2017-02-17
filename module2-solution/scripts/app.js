@@ -39,7 +39,7 @@
         var toBuyItems = [{ name: 'cookis', quantity: 10 },
             { name: 'chips', quantity: 5 },
             { name: 'cakes', quantity: 7 },
-            { name: 'cocumbers', quantity: 6 },
+            { name: 'cucumbers', quantity: 6 },
             { name: 'tomatoes', quantity: 8 }
         ];
 
